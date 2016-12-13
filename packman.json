@@ -1,0 +1,7 @@
+{
+  "name": "Unity5Effects",
+  "export": "Assets",
+  "dependencies": [
+    "local/StandardAssetsEffects"
+  ]
+}
